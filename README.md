@@ -17,7 +17,7 @@ I am a passionate **Python Developer** with a strong background in building scal
 
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### 🗄️ Databases
 ![BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF2?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -26,8 +26,8 @@ I am a passionate **Python Developer** with a strong background in building scal
 
 
 #### 📦 Frameworks & Libraries
-- **Web:** Django, Flask, HTML5, CSS3, .
-- **Data Libraries:** NumPy, Pandas, Scrapy.
+- **Web:** Django, Flask, HTML5, CSS3.
+- **Data Libraries:** ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) **NumPy**, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) **Pandas**, Scrapy.
 - **Learning:** Machine Learning (Exploring 🏗️).
 
 ---
@@ -52,5 +52,3 @@ I am a passionate **Python Developer** with a strong background in building scal
 ---
 
 *“Talk is cheap. Show me the code.” – Linus Torvalds*
-
-
