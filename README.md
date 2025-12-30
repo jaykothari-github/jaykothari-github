@@ -26,9 +26,9 @@ I am a passionate **Python Developer** with a strong background in building scal
 
 
 #### 📦 Frameworks & Libraries
-- **Web:** Django, Flask, HTML5, CSS3.
+- **Web:** ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white) **Django**, ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) **Flask**, ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) **HTML5**, ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) **CSS3**.
 - **Data Libraries:** ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) **NumPy**, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) **Pandas**, Scrapy.
-- **Learning:** Machine Learning (Exploring 🏗️).
+- **Learning:** ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-🤖-orange) (Exploring 🏗️).
 
 ---
 
@@ -40,7 +40,7 @@ I am a passionate **Python Developer** with a strong background in building scal
 ---
 
 ### 📊 GitHub Stats
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaykothari-github&show_icons=true&theme=radical)
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaykothari-github&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykothari-github&layout=compact&theme=radical)
 
 ---
