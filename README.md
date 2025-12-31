@@ -1,10 +1,9 @@
 # Hi there, I'm Jay! 👋
 ### 🐍 Python Developer | Aspiring Machine Learning Engineer
 
-![GCP Associate Cloud Engineer](https://img.shields.io/badge/Google%20Cloud%20Certified-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GCP Associate Cloud Engineer](https://miro.medium.com/v2/resize:fit:64/format:webp/1*T59fnCvp71WqNeuytWGorA.png)
+![GCP Associate Cloud Engineer](https://miro.medium.com/v2/resize:fit:70/format:webp/1*T59fnCvp71WqNeuytWGorA.png)
 
-https://miro.medium.com/v2/resize:fit:64/format:webp/1*T59fnCvp71WqNeuytWGorA.png
+
 I am a passionate **Python Developer** with a strong background in building scalable backend systems and managing cloud infrastructure. My current focus is bridging the gap between robust software engineering and **Machine Learning** to build intelligent, data-driven applications.
 
 ---
