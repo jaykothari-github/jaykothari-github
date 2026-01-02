@@ -1,5 +1,5 @@
 # Hi there, I'm Jay! 👋
-### ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/12px-Python-logo-notext.svg.png) Python Developer | Aspiring Machine Learning Engineer
+### ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/14px-Python-logo-notext.svg.png) Python Developer | Aspiring Machine Learning Engineer
 
 ![GCP Associate Cloud Engineer](https://miro.medium.com/v2/resize:fit:70/format:webp/1*T59fnCvp71WqNeuytWGorA.png)
 
