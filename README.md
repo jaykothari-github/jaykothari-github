@@ -43,8 +43,8 @@ I am a passionate **Python Developer** with a strong background in building scal
 ---
 
 ### 📫 Get in Touch
-- 📧 **Email:** [jaykothari49@gmail.com](mailto:jaykothari49@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/Jay Kothari](https://www.linkedin.com/in/jay-kothari-py) 
+- 📧 [jaykothari49@gmail.com](mailto:jaykothari49@gmail.com)
+- 💼 [linkedin.com/in/Jay Kothari](https://www.linkedin.com/in/jay-kothari-py) 
 
 ---
 
